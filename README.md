@@ -1,1 +1,1 @@
-# Machine-learning-for-tea-recognition
+# -This repository contains CNN, BP and DBN for tea recognition
